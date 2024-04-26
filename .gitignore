@@ -1,3 +1,6 @@
 *.txt
 *.tsv
 __pycache__
+Dataset
+Recorded-Lecture/Statistics/*
+.vscode
