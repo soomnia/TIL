@@ -4,3 +4,8 @@
 __pycache__
 Dataset
 .vscode
+.venv
+ko
+*.png
+*.jpg
+.env
