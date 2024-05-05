@@ -9,3 +9,5 @@ ko
 *.png
 *.jpg
 .env
+news
+.DS_STORE
