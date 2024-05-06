@@ -11,3 +11,7 @@ ko
 .env
 news
 .DS_STORE
+sample
+*.gz
+practice_folder
+organized_folder
